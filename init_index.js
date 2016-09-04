@@ -1,0 +1,7 @@
+﻿var includeDocument = {
+	
+};
+
+addLoadEvent(function(){
+	
+});
